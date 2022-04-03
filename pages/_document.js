@@ -11,7 +11,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head />
-        <body className='bg-gradient-to-r from-pink-300 via-purple-300 to-indigo-400'>
+        <body className='bg-gradient-to-r from-blue-300 via-purple-300 to-indigo-400'>
           <main className='max-w-3xl mx-auto'>
             <h1 className='mt-16 mb-4 text-4xl text-indigo-900'>
               Solidity Keyboard Generator
